@@ -1,3 +1,3 @@
 # Registor-form
 Live Website:
-https://indhirani1910.github.io/internship-project/
+https://indhirani1910.github.io/Register-form/
